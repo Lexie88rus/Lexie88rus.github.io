@@ -1,6 +1,8 @@
 # Lexie88rus.github.io
 Repository containing personal CV and portfolio page on GitHub Pages.
 
+PDF version of CV is [here](https://github.com/Lexie88rus/Lexie88rus.github.io/blob/master/assets/AleksandraDeis_29052019.pdf).
+
 ## Description
 This is my portfolio web page for GitHub pages.
 
